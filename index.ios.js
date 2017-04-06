@@ -7,4 +7,10 @@ import ReactNative from 'react-native';
 
 // 2) Create a component
 
+const App = () => {
+  return (
+    <Text>Hello World!</Text>
+  );
+};
+
 // 3) Render it to the device
